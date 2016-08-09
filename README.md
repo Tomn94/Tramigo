@@ -6,7 +6,7 @@
 
 Sorry, our repositories are private.
 
-__Find out more about this universal app on: http://tramigoapp.com__
+__Find out more about this universal app on: [tramigoapp.com](http://tramigoapp.com)__
 
 ###### The easiest way to travel
 
